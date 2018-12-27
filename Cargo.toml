@@ -1,0 +1,8 @@
+[package]
+name = "opencl_matrix"
+version = "0.1.0"
+authors = ["yukq16 <shikine.yui@gmail.com>"]
+
+[dependencies]
+ocl = "0.19.1"
+ocl-extras = "0.1"
